@@ -1,0 +1,137 @@
+Jul  7 00:00:09 serverb systemd[1]: Starting Rotate log files...
+Jul  7 00:00:09 serverb systemd[1]: Started Update a database for mlocate.
+Jul  7 00:00:09 serverb systemd[1]: Reloading The Apache HTTP Server...
+Jul  7 00:00:09 serverb systemd[1]: mlocate-updatedb.service: Deactivated successfully.
+Jul  7 00:00:09 serverb systemd[1]: Reloaded The Apache HTTP Server.
+Jul  7 00:00:09 serverb systemd[1]: rsyslog.service: Sent signal SIGHUP to main process 751 (rsyslogd) on client request.
+Jul  7 00:00:09 serverb systemd[1]: logrotate.service: Deactivated successfully.
+Jul  7 00:00:09 serverb systemd[1]: Finished Rotate log files.
+Jul  7 00:00:12 serverb httpd[28836]: Server configured, listening on: port 80
+Jul  7 00:10:09 serverb rsyslogd[751]: [origin software="rsyslogd" swVersion="8.2102.0-101.el9" x-pid="751" x-info="https://www.rsyslog.com"] rsyslogd was HUPed
+Jul  7 00:57:52 serverb systemd[1]: Starting dnf makecache...
+Jul  7 00:57:53 serverb dnf[30338]: Red Hat Enterprise Linux 9.0 BaseOS (dvd)       414 kB/s | 2.7 kB     00:00
+Jul  7 00:57:53 serverb dnf[30338]: Red Hat Enterprise Linux 9.0 AppStream (dvd)    1.3 MB/s | 2.8 kB     00:00
+Jul  7 00:57:53 serverb dnf[30338]: Metadata cache created.
+Jul  7 00:57:53 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 00:57:53 serverb systemd[1]: Finished dnf makecache.
+Jul  7 02:31:25 serverb systemd[1]: Starting dnf makecache...
+Jul  7 02:31:26 serverb dnf[30397]: Metadata cache refreshed recently.
+Jul  7 02:31:26 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 02:31:26 serverb systemd[1]: Finished dnf makecache.
+Jul  7 04:14:05 serverb systemd[1]: Starting dnf makecache...
+Jul  7 04:14:06 serverb dnf[30457]: Red Hat Enterprise Linux 9.0 BaseOS (dvd)       499 kB/s | 2.7 kB     00:00
+Jul  7 04:14:06 serverb dnf[30457]: Red Hat Enterprise Linux 9.0 AppStream (dvd)    1.4 MB/s | 2.8 kB     00:00
+Jul  7 04:14:06 serverb dnf[30457]: Metadata cache created.
+Jul  7 04:14:06 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 04:14:06 serverb systemd[1]: Finished dnf makecache.
+Jul  7 06:00:02 serverb systemd[1]: Starting dnf makecache...
+Jul  7 06:00:03 serverb dnf[30501]: Metadata cache refreshed recently.
+Jul  7 06:00:03 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 06:00:03 serverb systemd[1]: Finished dnf makecache.
+Jul  7 07:19:37 serverb systemd[1]: Starting Cleanup of Temporary Directories...
+Jul  7 07:19:37 serverb systemd[1]: systemd-tmpfiles-clean.service: Deactivated successfully.
+Jul  7 07:19:37 serverb systemd[1]: Finished Cleanup of Temporary Directories.
+Jul  7 07:20:57 serverb systemd[1]: Starting dnf makecache...
+Jul  7 07:20:58 serverb dnf[30546]: Red Hat Enterprise Linux 9.0 BaseOS (dvd)       421 kB/s | 2.7 kB     00:00
+Jul  7 07:20:58 serverb dnf[30546]: Red Hat Enterprise Linux 9.0 AppStream (dvd)    1.4 MB/s | 2.8 kB     00:00
+Jul  7 07:20:58 serverb dnf[30546]: Metadata cache created.
+Jul  7 07:20:58 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 07:20:58 serverb systemd[1]: Finished dnf makecache.
+Jul  7 08:52:23 serverb systemd[1]: Starting dnf makecache...
+Jul  7 08:52:24 serverb dnf[30588]: Metadata cache refreshed recently.
+Jul  7 08:52:24 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 08:52:24 serverb systemd[1]: Finished dnf makecache.
+Jul  7 10:48:41 serverb systemd[1]: Starting dnf makecache...
+Jul  7 10:48:42 serverb dnf[30641]: Red Hat Enterprise Linux 9.0 BaseOS (dvd)       436 kB/s | 2.7 kB     00:00
+Jul  7 10:48:42 serverb dnf[30641]: Red Hat Enterprise Linux 9.0 AppStream (dvd)    1.3 MB/s | 2.8 kB     00:00
+Jul  7 10:48:42 serverb dnf[30641]: Metadata cache created.
+Jul  7 10:48:42 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 10:48:42 serverb systemd[1]: Finished dnf makecache.
+Jul  7 12:16:17 serverb systemd[1]: Starting dnf makecache...
+Jul  7 12:16:17 serverb dnf[30694]: Metadata cache refreshed recently.
+Jul  7 12:16:17 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 12:16:17 serverb systemd[1]: Finished dnf makecache.
+Jul  7 13:17:11 serverb systemd[1]: Starting dnf makecache...
+Jul  7 13:17:11 serverb dnf[30725]: Metadata cache refreshed recently.
+Jul  7 13:17:11 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 13:17:11 serverb systemd[1]: Finished dnf makecache.
+Jul  7 14:20:15 serverb systemd[1]: Starting dnf makecache...
+Jul  7 14:20:16 serverb dnf[30753]: Red Hat Enterprise Linux 9.0 BaseOS (dvd)       394 kB/s | 2.7 kB     00:00
+Jul  7 14:20:16 serverb dnf[30753]: Red Hat Enterprise Linux 9.0 AppStream (dvd)    1.4 MB/s | 2.8 kB     00:00
+Jul  7 14:20:16 serverb dnf[30753]: Metadata cache created.
+Jul  7 14:20:16 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 14:20:16 serverb systemd[1]: Finished dnf makecache.
+Jul  7 14:21:25 serverb systemd[2019]: Starting Cleanup of User's Temporary Files and Directories...
+Jul  7 14:21:25 serverb systemd[2019]: Finished Cleanup of User's Temporary Files and Directories.
+Jul  7 15:39:30 serverb systemd[1]: Starting dnf makecache...
+Jul  7 15:39:31 serverb dnf[30787]: Metadata cache refreshed recently.
+Jul  7 15:39:31 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 15:39:31 serverb systemd[1]: Finished dnf makecache.
+Jul  7 17:31:48 serverb systemd[1]: Starting dnf makecache...
+Jul  7 17:31:48 serverb dnf[30839]: Red Hat Enterprise Linux 9.0 BaseOS (dvd)       272 kB/s | 2.7 kB     00:00
+Jul  7 17:31:48 serverb dnf[30839]: Red Hat Enterprise Linux 9.0 AppStream (dvd)    1.2 MB/s | 2.8 kB     00:00
+Jul  7 17:31:48 serverb dnf[30839]: Metadata cache created.
+Jul  7 17:31:48 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 17:31:48 serverb systemd[1]: Finished dnf makecache.
+Jul  7 19:26:15 serverb systemd[1]: Starting dnf makecache...
+Jul  7 19:26:16 serverb dnf[30902]: Metadata cache refreshed recently.
+Jul  7 19:26:16 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 19:26:16 serverb systemd[1]: Finished dnf makecache.
+Jul  7 21:17:53 serverb systemd[1]: Starting dnf makecache...
+Jul  7 21:17:53 serverb dnf[30958]: Red Hat Enterprise Linux 9.0 BaseOS (dvd)       268 kB/s | 2.7 kB     00:00
+Jul  7 21:17:53 serverb dnf[30958]: Red Hat Enterprise Linux 9.0 AppStream (dvd)    1.2 MB/s | 2.8 kB     00:00
+Jul  7 21:17:53 serverb dnf[30958]: Metadata cache created.
+Jul  7 21:17:53 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 21:17:53 serverb systemd[1]: Finished dnf makecache.
+Jul  7 22:19:25 serverb systemd[1]: Starting dnf makecache...
+Jul  7 22:19:26 serverb dnf[30988]: Metadata cache refreshed recently.
+Jul  7 22:19:26 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 22:19:26 serverb systemd[1]: Finished dnf makecache.
+Jul  7 23:42:42 serverb systemd[1]: Starting dnf makecache...
+Jul  7 23:42:43 serverb dnf[31022]: Metadata cache refreshed recently.
+Jul  7 23:42:43 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  7 23:42:43 serverb systemd[1]: Finished dnf makecache.
+Jul  8 00:00:04 serverb systemd[1]: Starting Rotate log files...
+Jul  8 00:00:04 serverb systemd[1]: Started Update a database for mlocate.
+Jul  8 00:00:04 serverb systemd[1]: logrotate.service: Deactivated successfully.
+Jul  8 00:00:04 serverb systemd[1]: Finished Rotate log files.
+Jul  8 00:00:04 serverb systemd[1]: mlocate-updatedb.service: Deactivated successfully.
+Jul  8 01:16:25 serverb systemd[1]: Starting dnf makecache...
+Jul  8 01:16:26 serverb dnf[31090]: Red Hat Enterprise Linux 9.0 BaseOS (dvd)       483 kB/s | 2.7 kB     00:00
+Jul  8 01:16:26 serverb dnf[31090]: Red Hat Enterprise Linux 9.0 AppStream (dvd)    1.6 MB/s | 2.8 kB     00:00
+Jul  8 01:16:26 serverb dnf[31090]: Metadata cache created.
+Jul  8 01:16:26 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  8 01:16:26 serverb systemd[1]: Finished dnf makecache.
+Jul  8 03:04:16 serverb systemd[1]: Starting dnf makecache...
+Jul  8 03:04:16 serverb dnf[31152]: Metadata cache refreshed recently.
+Jul  8 03:04:16 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  8 03:04:16 serverb systemd[1]: Finished dnf makecache.
+Jul  8 04:06:50 serverb systemd[1]: Starting dnf makecache...
+Jul  8 04:06:50 serverb dnf[31183]: Metadata cache refreshed recently.
+Jul  8 04:06:50 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  8 04:06:50 serverb systemd[1]: Finished dnf makecache.
+Jul  8 05:33:46 serverb systemd[1]: Starting dnf makecache...
+Jul  8 05:33:46 serverb dnf[31216]: Red Hat Enterprise Linux 9.0 BaseOS (dvd)       305 kB/s | 2.7 kB     00:00
+Jul  8 05:33:46 serverb dnf[31216]: Red Hat Enterprise Linux 9.0 AppStream (dvd)    1.6 MB/s | 2.8 kB     00:00
+Jul  8 05:33:46 serverb dnf[31216]: Metadata cache created.
+Jul  8 05:33:46 serverb systemd[1]: dnf-makecache.service: Deactivated successfully.
+Jul  8 05:33:46 serverb systemd[1]: Finished dnf makecache.
+Jul  8 06:31:24 serverb systemd[1]: Created slice Slice /system/dbus-:1.1-org.fedoraproject.Setroubleshootd.
+Jul  8 06:31:24 serverb systemd[1]: Started dbus-:1.1-org.fedoraproject.Setroubleshootd@0.service.
+Jul  8 06:31:25 serverb setroubleshoot[31295]: failed to retrieve rpm info for /var/log/messages
+Jul  8 06:31:25 serverb systemd[1]: Created slice Slice /system/dbus-:1.1-org.fedoraproject.SetroubleshootPrivileged.
+Jul  8 06:31:25 serverb systemd[1]: Started dbus-:1.1-org.fedoraproject.SetroubleshootPrivileged@0.service.
+Jul  8 06:31:28 serverb setroubleshoot[31295]: SELinux is preventing /usr/sbin/httpd from read access on the file /var/log/messages. For complete SELinux messages run: sealert -l 8e603697-3a02-422b-b7a8-844a236f9b30
+Jul  8 06:31:28 serverb setroubleshoot[31295]: SELinux is preventing /usr/sbin/httpd from read access on the file /var/log/messages.#012#012*****  Plugin catchall (100. confidence) suggests   **************************#012#012If you believe that httpd should be allowed read access on the messages file by default.#012Then you should report this as a bug.#012You can generate a local policy module to allow this access.#012Do#012allow this access for now by executing:#012# ausearch -c 'httpd' --raw | audit2allow -M my-httpd#012# semodule -X 300 -i my-httpd.pp#012
+Jul  8 06:31:28 serverb setroubleshoot[31295]: failed to retrieve rpm info for /var/log/messages
+Jul  8 06:31:28 serverb setroubleshoot[31295]: SELinux is preventing /usr/sbin/httpd from map access on the file /var/log/messages. For complete SELinux messages run: sealert -l 2bd1268d-a48e-4999-8b66-fced4e758a17
+Jul  8 06:31:28 serverb setroubleshoot[31295]: SELinux is preventing /usr/sbin/httpd from map access on the file /var/log/messages.#012#012*****  Plugin catchall_boolean (89.3 confidence) suggests   ******************#012#012If you want to allow domain to can mmap files#012Then you must tell SELinux about this by enabling the 'domain_can_mmap_files' boolean.#012#012Do#012setsebool -P domain_can_mmap_files 1#012#012*****  Plugin catchall (11.6 confidence) suggests   **************************#012#012If you believe that httpd should be allowed map access on the messages file by default.#012Then you should report this as a bug.#012You can generate a local policy module to allow this access.#012Do#012allow this access for now by executing:#012# ausearch -c 'httpd' --raw | audit2allow -M my-httpd#012# semodule -X 300 -i my-httpd.pp#012
+Jul  8 06:31:38 serverb systemd[1]: dbus-:1.1-org.fedoraproject.SetroubleshootPrivileged@0.service: Main process exited, code=killed, status=14/ALRM
+Jul  8 06:31:38 serverb systemd[1]: dbus-:1.1-org.fedoraproject.SetroubleshootPrivileged@0.service: Failed with result 'signal'.
+Jul  8 06:31:38 serverb systemd[1]: dbus-:1.1-org.fedoraproject.Setroubleshootd@0.service: Main process exited, code=killed, status=14/ALRM
+Jul  8 06:31:38 serverb systemd[1]: dbus-:1.1-org.fedoraproject.Setroubleshootd@0.service: Failed with result 'signal'.
+Jul  8 06:33:21 serverb systemd-logind[752]: New session 3 of user student.
+Jul  8 06:33:21 serverb systemd[1]: Started Session 3 of User student.
+Jul  8 06:33:21 serverb systemd[1]: Starting Hostname Service...
+Jul  8 06:33:21 serverb systemd[1]: Started Hostname Service.
+Jul  8 06:33:56 serverb systemd[1]: systemd-hostnamed.service: Deactivated successfully.
